@@ -1,7 +1,5 @@
 ## fractioneater
-Hello, I see you've found my profile!
-
-Well, that's all.
+Almost all of my repos are private.
 
 <br>
 
